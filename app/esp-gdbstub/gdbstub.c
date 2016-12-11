@@ -13,6 +13,7 @@
 #include "c_types.h"
 #include "gpio.h"
 #include "xtensa/corebits.h"
+#include "xtensa/config/core-isa.h"
 #include "driver/uart.h"
 
 #include "gdbstub.h"

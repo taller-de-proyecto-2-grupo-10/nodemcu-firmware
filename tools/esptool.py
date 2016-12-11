@@ -23,7 +23,7 @@ import hashlib
 import inspect
 import json
 import os
-import serial
+#import serial
 import struct
 import subprocess
 import sys
